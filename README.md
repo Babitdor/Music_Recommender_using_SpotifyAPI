@@ -6,4 +6,4 @@
 
 ## Model was build using Cosine and Sigmoid Kernal
 
-##Based on the content of your data, this model recommends you the top 10 songs, that are similar to what you input
+## Based on the content of your data, this model recommends you the top 10 songs, that are similar to what you input
